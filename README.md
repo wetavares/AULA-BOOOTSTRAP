@@ -9,3 +9,6 @@ Curso introdutório ao HTML5 e CSS3 Utilizando framework Boostrap.
 
 
 :pushpin: Links interessantes.
+:large_orange_diamond: https://3os.org/markdownCheatSheet/emoji/#objects (icones para arquivo markdown)
+:large_orange_diamond: https://www.pexels.com/pt-br/procurar/time/ (imagens e videos gratuitos profissionais)
+
