@@ -8,4 +8,4 @@ Curso introdutório ao HTML5 e CSS3 Utilizando framework Boostrap.
     - Construir um site utilizando HTML5, CSS3 e BOOTSTRAP
 
 
-:pushpin Links interessantes.
+:pushpin: Links interessantes.
