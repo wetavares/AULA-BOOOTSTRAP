@@ -14,3 +14,4 @@ Curso introdutório ao HTML5 e CSS3 Utilizando framework Boostrap.
 
 :large_orange_diamond: https://www.pexels.com/pt-br/procurar/time/ (imagens e videos gratuitos profissionais)
 
+:large_orange_diamond: https://html-color-codes.info/ (site paletas de cores para html)
